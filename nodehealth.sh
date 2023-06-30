@@ -15,3 +15,4 @@ free -g
 df -h
 
 nproc
+Top
