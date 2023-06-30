@@ -15,4 +15,7 @@ free -g
 df -h
 
 nproc
+
 Top
+
+ps -ef
